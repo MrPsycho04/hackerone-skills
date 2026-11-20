@@ -35,6 +35,8 @@ OpenCode loads them automatically. Ask for a class by name, e.g. `hackerone-xss`
 | [`hackerone-hunting`](hackerone-hunting/SKILL.md) | Hunt bugs using 15,000+ publicly disclosed HackerOne reports | — |
 | [`hackerone-idor`](hackerone-idor/SKILL.md) | Hunt IDOR and broken object-level authorization | 450 |
 | [`hackerone-info-disclosure`](hackerone-info-disclosure/SKILL.md) | Hunt sensitive data exposure | 1,827 |
+| [`hackerone-js-analyze`](hackerone-js-analyze/SKILL.md) | Analyze collected JS for secrets, endpoints, DOM sinks, and client-side auth flaws | 1,330 |
+| [`hackerone-js-collect`](hackerone-js-collect/SKILL.md) | Collect JS files from a live target: bundles, chunks, and source maps | 1,330 |
 | [`hackerone-llm-ai`](hackerone-llm-ai/SKILL.md) | Hunt prompt injection, agent tool abuse, and AI data leakage | 7 |
 | [`hackerone-logic-and-design`](hackerone-logic-and-design/SKILL.md) | Hunt business logic abuse and secure-design violations | 931 |
 | [`hackerone-memory-corruption`](hackerone-memory-corruption/SKILL.md) | Hunt memory safety bugs in native software | 892 |
